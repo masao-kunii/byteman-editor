@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry excluding="jp/co/ntt/oss/jboss/byteman/editor/editor/validate/|jp/co/ntt/oss/jboss/byteman/editor/action/jump/JumpToTargetAction.java|jp/co/ntt/oss/jboss/byteman/editor/action/jump/BytemanOutlineInfomationControl.java|jp/co/ntt/oss/jboss/byteman/editor/action/jump/|jp/co/ntt/oss/jboss/byteman/editor/action/jump/JumpToTarget.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/byteman-2.0.4.jar" sourcepath="lib/byteman-sources.jar"/>
+	<classpathentry kind="lib" path="lib/byteman-submit-2.0.4.jar" sourcepath="lib/byteman-submit-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
